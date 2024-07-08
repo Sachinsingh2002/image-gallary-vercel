@@ -102,14 +102,14 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         </div>
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
-        Thank you to{" "}
+        Made With Code by{" "}
         <a
           href="https://edelsonphotography.com/"
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-          Josh Edelson
+          Sachin Singh
         </a>
         ,{" "}
         <a
@@ -118,7 +118,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
           className="font-semibold hover:text-white"
           rel="noreferrer"
         >
-          Jenny Morgan
+          karan kumar 
         </a>
         , and{" "}
         <a
@@ -129,7 +129,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         >
           Gary Sexton
         </a>{" "}
-        for the pictures.
+        ,Thanks for visiting everyone.
       </footer>
     </>
   );
