@@ -119,7 +119,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
 
 
 
-        ,Thanks for visiting everyone.
+        , Thanks for visiting everyone.
       </footer>
     </>
   );
