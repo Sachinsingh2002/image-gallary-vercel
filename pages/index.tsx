@@ -110,7 +110,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
           rel="noreferrer"
         >
           Sachin Singh
-        </a>
+        {/* </a>
         ,{" "}
         <a
           href="https://www.newrevmedia.com/"
@@ -128,7 +128,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
           rel="noreferrer"
         >
           Gary Sexton
-        </a>{" "}
+        </a>{" "} */}
         ,Thanks for visiting everyone.
       </footer>
     </>
