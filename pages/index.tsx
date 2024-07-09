@@ -110,25 +110,15 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
           rel="noreferrer"
         >
           Sachin Singh
-        {/* </a>
-        ,{" "}
-        <a
-          href="https://www.newrevmedia.com/"
-          target="_blank"
-          className="font-semibold hover:text-white"
-          rel="noreferrer"
-        >
-          karan kumar 
         </a>
-        , and{" "}
-        <a
-          href="https://www.garysextonphotography.com/"
-          target="_blank"
-          className="font-semibold hover:text-white"
-          rel="noreferrer"
-        >
-          Gary Sexton
-        </a>{" "} */}
+
+
+
+
+
+
+
+
         ,Thanks for visiting everyone.
       </footer>
     </>
